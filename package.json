@@ -1,0 +1,24 @@
+{
+  "name": "cerebro",
+  "version": "1.0.0",
+  "description": "Sentiment analysis of the coins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackbuild/cerebro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackbuild/cerebro/issues"
+  },
+  "homepage": "https://github.com/hackbuild/cerebro#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "crypto-exchange": "^2.3.0",
+    "fs-cson": "^0.3.2"
+  }
+}
